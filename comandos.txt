@@ -1,0 +1,16 @@
+  182  git add README.md
+  183  git commit -m "Actualiza documentación del proyecto"
+  184  git status
+  185  git status
+  186  git add docs/descripcion.md
+  187  git commit -m "Documenta funcionalidades previstas"
+  188  git log --oneline
+  189  git remote add origin https://github.com/angelmataco/gestor_tareas.git
+  190  git push -u origin main
+  191  git status
+  192  git add .gitignore
+  193  git status
+  194  git commit -m "Gitignore"
+  195  git status
+  196  git status
+  197  history
